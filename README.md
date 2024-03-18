@@ -1,3 +1,12 @@
+<p align="center">
+  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+### Hi there，I'm Subranium 🙋‍♂️
+
+
 # Hello, geeks! 👋
 
 Welcome to my GitHub page! I'm Philippe, a recent graduate of 4 Geeks Academy, passionate about coding and eager to make my mark in the tech industry. With proficiency in a variety of languages and technologies, including Python, JavaScript, HTML5, CSS3, GitHub, Git, Flask, EI DOM, JSON, Bootstrap, React.js, Node.js, SQL, and CI/CD, I'm ready to take on exciting projects and challenges.
