@@ -12,10 +12,12 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 ### 🌱 What do I do and What have I done? 
 
-- Developed a life insurance website for the business I work for.
-- Desgined logos as a freelancer
+- An entrepreneur who dabbles in marketing and makes use of modern technology to improve outcomes
+- I know how to use every Adobe products
+- I created a website for life insurance for the company I work for using Wordpress
+- I Desgined logos as a freelancer
 - Creating landing pages using Wordpress as a freelancer
-- 
+- I created a buisness Landing page for a cosmotology school in Broward
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/philippemoise) 
