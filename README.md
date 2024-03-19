@@ -43,12 +43,7 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 <div align="center">
 
 
-### 📫 How to reach me?
-- [Twitter](https://twitter.com/philippemoise) 
-- [LinkedIn](https://www.linkedin.com/in/philippemoise/) 
 
-
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
 
