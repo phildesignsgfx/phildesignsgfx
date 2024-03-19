@@ -27,3 +27,4 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phildesignsgfx&layout=compact)
