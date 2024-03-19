@@ -26,4 +26,4 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/phildesignsgfx?username=ffflabs)](https://github.com/phildesignsgfx/github-readme-stats)
+[![Philippe Moise stats](https://github-readme-stats.vercel.app/api/phildesignsgfx?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
