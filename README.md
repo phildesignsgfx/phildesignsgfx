@@ -34,7 +34,13 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phildesignsgfx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phildesignsgfx&repo=github-readme-stats)]([https://github.com/anuraghazra](https://github.com/4GeeksAcademy/TeamUp-Nexus)/github-readme-stats)
+<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+</a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
+<div align="center">
 
 
 ### 📫 How to reach me?
