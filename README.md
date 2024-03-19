@@ -9,6 +9,7 @@ As a budding developer, I believe in the power of collaboration and networking t
 
 Whether it's developing sleek web applications, diving into backend systems, or mastering the latest tools and frameworks, I'm dedicated to honing my skills and contributing to the ever-evolving world of technology. Join me on this journey as we create, innovate, and transform the digital landscape together. Let's code, collaborate, and conquer!
 
+### 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
 
