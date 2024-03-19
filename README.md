@@ -33,6 +33,8 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phildesignsgfx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phildesignsgfx&repo=github-readme-stats)]([https://github.com/anuraghazra](https://github.com/4GeeksAcademy/TeamUp-Nexus)/github-readme-stats)
 
 
 ### 📫 How to reach me?
