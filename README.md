@@ -22,7 +22,7 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 - Creating landing pages using Wordpress as a freelancer
 - I created a buisness Landing page for a cosmotology school in Broward
 
-## Stats
+## 🏆Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
 
