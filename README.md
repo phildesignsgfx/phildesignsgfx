@@ -1,6 +1,4 @@
-**Align center:**
-[![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
 
 
 # Hello, geeks! 👋
