@@ -24,8 +24,8 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 ## 📖 Portfolio
 - https://llbacademy.org/
-
-
+- https://finalexpenseseniorsolutions.com/
+- https://bakinbitch.com/
 
 
 ## 🏆 Stats
