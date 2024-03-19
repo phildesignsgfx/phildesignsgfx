@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight)](https://git.io/streak-stats)
-<h1/>
+<div/>
 
 
 # Hello, geeks! 👋
