@@ -1,6 +1,6 @@
-<div align="center">
+**Align center:**
 [![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight)](https://git.io/streak-stats)
-<div/>
+
 
 
 # Hello, geeks! 👋
