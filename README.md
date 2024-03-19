@@ -22,7 +22,7 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 - Creating landing pages using Wordpress as a freelancer
 - I created a buisness Landing page for a cosmotology school in Broward
 
-## 🏆Stats
+## 🏆 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
 
@@ -33,7 +33,7 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phildesignsgfx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆Projects
+## ⭐ Projects
 <a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
 </a>
