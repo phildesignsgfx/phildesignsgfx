@@ -11,7 +11,6 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 ### 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
 
 
 ### 🌱 What do I do and What have I done? 
@@ -23,6 +22,13 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 - Creating landing pages using Wordpress as a freelancer
 - I created a buisness Landing page for a cosmotology school in Broward
 
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=phildesignsgfx&theme=tokyonight&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phildesignsgfx&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="phildesignsgfx" /></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phildesignsgfx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -38,7 +44,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
+
 
 
 
