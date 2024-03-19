@@ -11,7 +11,7 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 
 ### 
 
-### Connect with me:
+### 🔗 Connect with me:
 
 <a href=" https://www.linkedin.com/in/philippemoise/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="60" width="60" /></a> <a href=" " target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="60" width="60" /></a>
 
