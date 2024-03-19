@@ -23,6 +23,12 @@ Whether it's developing sleek web applications, diving into backend systems, or 
 - Creating landing pages using Wordpress as a freelancer
 - I created a buisness Landing page for a cosmotology school in Broward
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/philippemoise) 
 - [LinkedIn](https://www.linkedin.com/in/philippemoise/) 
@@ -35,4 +41,4 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phildesignsgfx&show_icons=true&theme=radical)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
